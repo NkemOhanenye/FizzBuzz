@@ -1,5 +1,5 @@
 /**
- * Created by otakusenseihig on 1/11/17.
+ * Created by Nkem Ohanenye on 1/11/17.
  */
 public class FizzBuzz {
     public static void main(String args[]){
